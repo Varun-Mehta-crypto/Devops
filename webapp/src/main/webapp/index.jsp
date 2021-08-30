@@ -5,5 +5,7 @@
 <marquee width="60%" direction="left" height="100px">
 This is a sample scrolling text that has scrolls in the upper direction.
 </marquee>
-<p style="text-align:center"><b>BASIC WEB PAGE </b></p>
+<p style="text-align:center"><b>BASIC WEB PAGE </b></p> 
+<hr>
+<p style="text-align:center; font-size:40px;"><a href="https://gogoanime.lol">Site for anime fans</a></p> 
 </body>

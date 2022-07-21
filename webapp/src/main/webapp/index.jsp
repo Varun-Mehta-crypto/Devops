@@ -1,4 +1,4 @@
-<body style=" background-color:red;">
+<body style=" background-color:blue;">
 <h1 style="text-align:center; color:white">Welcome to my Integration</h1>
 <hr>
 <p style="text-align:center; font-size:30px; font-family: cursive;"> This is new feature added on 30 Aug 2021 </p>
